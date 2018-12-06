@@ -1,0 +1,83 @@
+Sorted worst (most) to best (least)
+
+MQ      490693
+MQ_NumCancelled 18331
+% Canceled: 3.736
+
+YV      254930
+YV_NumCancelled 9219
+% Canceled: 3.616
+
+OH      197607
+OH_NumCancelled 6462
+% Canceled: 3.27
+
+AA      604885
+AA_NumCancelled 17440
+% Canceled: 2.883
+
+9E      262208
+9E_NumCancelled 7100
+% Canceled: 2.708
+
+XE      374510
+XE_NumCancelled 9992
+% Canceled: 2.668
+
+UA      449515
+UA_NumCancelled 10541
+% Canceled: 2.345
+
+OO      567159
+OO_NumCancelled 12436
+% Canceled: 2.193
+
+EV      280575
+EV_NumCancelled 5026
+% Canceled: 1.791
+
+B6      196091
+B6_NumCancelled 3205
+% Canceled: 1.634
+
+DL      451931
+DL_NumCancelled 6813
+% Canceled: 1.508
+
+US      453589
+US_NumCancelled 6582
+% Canceled: 1.451
+
+AS      151102
+AS_NumCancelled 2139
+% Canceled: 1.416
+
+CO      298455
+CO_NumCancelled 3702
+% Canceled: 1.240
+
+WN      1201754
+WN_NumCancelled 12389
+% Canceled: 1.031
+
+HA      61826
+HA_NumCancelled 570
+% Canceled: 0.922
+
+FL      261684
+FL_NumCancelled 2236
+% Canceled: 0.854
+
+NW      347652
+NW_NumCancelled 2906
+% Canceled: 0.836
+
+AQ      7800
+AQ_NumCancelled 42
+% Canceled: 0.538
+
+F9      95762
+F9_NumCancelled 303
+% Canceled: 0.316
+
+

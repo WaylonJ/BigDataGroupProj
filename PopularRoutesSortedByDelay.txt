@@ -1,0 +1,40 @@
+
+LGA, BOS	12035
+LGA, BOS_ArrDelayTotalMins	-1269
+average: -0.105
+
+OGG, HNL	12383
+OGG, HNL_ArrDelayTotalMins	12165
+average: 0.982
+
+SAN, LAX	11224
+SAN, LAX_ArrDelayTotalMins	11106
+average: 0.989
+
+LAX, SAN	11257
+LAX, SAN_ArrDelayTotalMins	12221
+average: 1.086
+
+HNL, OGG	12014
+HNL, OGG_ArrDelayTotalMins	13089
+average: 1.089
+
+BOS, LGA	12029
+BOS, LGA_ArrDelayTotalMins	59969
+average: 4.985
+
+LAX, LAS	11773
+LAX, LAS_ArrDelayTotalMins	61015
+average: 5.183
+
+LAS, LAX	11729
+LAS, LAX_ArrDelayTotalMins	73678
+average: 6.282
+
+SFO, LAX	13788
+SFO, LAX_ArrDelayTotalMins	125374
+average: 9.093
+
+LAX, SFO	13390
+LAX, SFO_ArrDelayTotalMins	163913
+average: 12.241

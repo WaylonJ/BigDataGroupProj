@@ -1,0 +1,79 @@
+AA      604885
+AA_TotalFlights 7381323
+Average: 12.203
+
+OH      197607
+OH_TotalFlights 2253532
+Average: 11.404
+
+YV      254930
+YV_TotalFlights 2886462
+Average: 11.323
+
+UA      449515
+UA_TotalFlights 4945362
+Average: 11.002
+
+B6      196091
+B6_TotalFlights 2129427
+Average: 10.859
+
+CO      298455
+CO_TotalFlights 3226245
+Average: 10.810
+
+XE      374510
+XE_TotalFlights 3865055
+Average: 10.320
+
+EV      280575
+EV_TotalFlights 2805843
+Average: 10.000
+
+MQ      490693
+MQ_TotalFlights 4660097
+Average: 9.497
+
+FL      261684
+FL_TotalFlights 2352057
+Average: 8.988
+
+DL      451931
+DL_TotalFlights 3487174
+Average: 7.716
+
+NW      347652
+NW_TotalFlights 2535588
+Average: 7.293
+
+OO      567159
+OO_TotalFlights 3651902
+Average: 6.439
+
+F9      95762
+F9_TotalFlights 582629
+Average: 6.084
+
+WN      1201754
+WN_TotalFlights 6147817
+Average: 5.116
+
+AS      151102
+AS_TotalFlights 713407
+Average: 4.721
+
+9E      262208
+9E_TotalFlights 1045552
+Average: 3.987
+
+US      453589
+US_TotalFlights 1270502
+Average: 2.801
+
+HA      61826
+HA_TotalFlights 77397
+Average: 1.252
+
+AQ      7800
+AQ_TotalFlights -22393
+Average: -2.871

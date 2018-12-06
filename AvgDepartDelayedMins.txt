@@ -1,0 +1,80 @@
+UA      449515
+UA_DepDelayTotalMins    6196282
+average: 13.784
+
+CO      298455
+CO_DepDelayTotalMins    3886953
+average: 13.024
+
+AA      604885
+AA_DepDelayTotalMins    7802966
+average: 12.900
+
+B6      196091
+B6_DepDelayTotalMins    2440878
+average: 12.448
+
+EV      280575
+EV_DepDelayTotalMins    3285923
+average: 11.711
+
+YV      254930
+YV_DepDelayTotalMins    2950054
+average: 11.572
+
+OH      197607
+OH_DepDelayTotalMins    2205401
+average: 11.161
+
+XE      374510
+XE_DepDelayTotalMins    4154705
+average: 11.094
+
+MQ      490693
+MQ_DepDelayTotalMins    5054033
+average: 10.300
+
+WN      1201754
+WN_DepDelayTotalMins    12349540
+average: 10.276
+
+FL      261684
+FL_DepDelayTotalMins    2403285
+average: 9.184
+
+DL      451931
+DL_DepDelayTotalMins    3564817
+average: 7.888
+
+OO      567159
+OO_DepDelayTotalMins    4137595
+average: 7.295
+
+AS      151102
+AS_DepDelayTotalMins    1020350
+average: 6.753
+
+9E      262208
+9E_DepDelayTotalMins    1726803
+average: 6.586
+
+NW      347652
+NW_DepDelayTotalMins    2228375
+average: 6.410
+
+F9      95762
+F9_DepDelayTotalMins    565097
+average: 5.901
+
+US      453589
+US_DepDelayTotalMins    2556181
+average: 5.635
+
+HA      61826
+HA_DepDelayTotalMins    27887
+average: 0.451
+
+AQ      7800
+AQ_DepDelayTotalMins    -10844
+average: -1.390
+

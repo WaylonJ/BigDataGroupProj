@@ -1,0 +1,23 @@
+Sorted in Average Arrival Delay, Worst (most) to best (least)
+
+"AA","American Airlines Inc."
+"OH","Comair Inc."
+"YV","Mesa Airlines Inc."
+"UA","United Air Lines Inc."
+"B6","JetBlue Airways"
+"CO","Continental Air Lines Inc."
+"XE","Expressjet Airlines Inc."
+"EV","Atlantic Southeast Airlines"
+"MQ","American Eagle Airlines Inc."
+"FL","AirTran Airways Corporation"
+"DL","Delta Air Lines Inc."
+"NW","Northwest Airlines Inc."
+"OO","Skywest Airlines Inc."
+"F9","Frontier Airlines Inc."
+"WN","Southwest Airlines Co."
+"AS","Alaska Airlines Inc."
+"9E","Pinnacle Airlines Inc."
+"US","US Airways Inc. (Merged with America West 9/05. Reporting for both starting 10/07.)"
+"HA","Hawaiian Airlines Inc."
+"AQ","Aloha Airlines Inc."
+

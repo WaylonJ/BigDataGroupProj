@@ -1,0 +1,5 @@
+Of 5000 planes used that year,
+
+N475HA	4499
+N475HA_ArrDelayMins	-6181
+avg: -1.374
