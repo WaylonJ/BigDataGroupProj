@@ -1,6 +1,6 @@
 # BigDataGroupProj
 
-Basic Details for our map reduce program: 
+**Basic Details:** 
 
 GC time elapsed (ms)=5577  or 5.577   seconds 
 
@@ -11,7 +11,7 @@ CPU time spent (ms)=180160 or 180.160 seconds
 .
 
 
-Advanced Details: 
+**Advanced Details:**
 
 Total time spent by all maps in occupied slots (ms)=42977808 
 
