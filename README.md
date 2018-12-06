@@ -29,9 +29,10 @@ Total megabyte-milliseconds taken by all map tasks=1372004928
 
 Total megabyte-milliseconds taken by all reduce tasks=202935880 
 
-
+.
 
 **To get the dataset:**
+
 Go here: http://stat-computing.org/dataexpo/2009/the-data.html?fbclid=IwAR32jlV4CbxdxhpKPwJcTUVqwOhPQT1YtOLKialWda-dW0G3_VIlyoS49Lg
 Click the link for the '2008' dataset, the csv should begin to download immediately.
 
